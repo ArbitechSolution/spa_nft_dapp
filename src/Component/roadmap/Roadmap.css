@@ -1,0 +1,270 @@
+.conatiner22 {
+  padding-top: 110px;
+}
+.boxex {
+  width: 200px;
+  height: 40px;
+  background: #00cbbf;
+  border-radius: 15px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 35px;
+  text-align: center;
+  color: #01070b;
+  margin-top: 30px;
+  /* padding-top: 20px; */
+}
+.roadmaph1 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  background: -webkit-linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* text-align: left; */
+}
+.roadmaprow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.roadmapimage9 {
+  width: 5px;
+  height: 38px;
+}
+.roadmapimage10 {
+  width: 20px;
+}
+.boxes1 {
+  width: 840px;
+  height: auto;
+  left: 343px;
+  top: 3173.77px;
+  border: 3px solid #00cbbf;
+  box-sizing: border-box;
+  border-radius: 30px;
+  align-self: center;
+}
+.roadmapp {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: white;
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 30px;
+}
+.roadmapp10 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: white;
+  text-align: left;
+  /* padding-top: 20px; */
+  padding-left: 40px;
+  padding-right: 30px;
+}
+.roadmaph4 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+
+  color: #00cbbf;
+}
+.roadmapimage19 {
+  width: 5px;
+  height: 60px;
+  /* border: 2px solid red; */
+}
+.boxex1 {
+  width: 200px;
+  height: 40px;
+  background: #00cbbf;
+  border-radius: 15px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 35px;
+  text-align: center;
+  color: #01070b;
+  /* margin-top: 30px; */
+  /* padding-top: 20px; */
+}
+.roadmapimage91 {
+  width: 5px;
+  height: 24px;
+}
+.roadmappup {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 41px;
+  /* or 175% */
+  text-align: left;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 30px;
+}
+.memebershiph1 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 43px;
+  text-align: center;
+  background: -webkit-linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 110px;
+}
+.membershipimage {
+  width: 900px;
+}
+@media (max-width: 995px) {
+  .boxes1 {
+    width: 840px;
+    height: auto;
+    left: 343px;
+    top: 3173.77px;
+    border: 3px solid #00cbbf;
+    box-sizing: border-box;
+    border-radius: 30px;
+    align-self: center;
+  }
+}
+@media (max-width: 600px) {
+  .roadmapp {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: white;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+  .roadmapp10 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: white;
+    text-align: left;
+    /* padding-top: 20px; */
+    padding-left: 20px;
+  }
+  .roadmappup {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    /* or 175% */
+    text-align: left;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+  .memebershiph1 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 43px;
+    text-align: center;
+    background: -webkit-linear-gradient(
+      93.2deg,
+      #009eff 12.14%,
+      #0029ff 92.31%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .membershipimage1 {
+    width: 200px;
+  }
+  .roadmaph4 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #00cbbf;
+  }
+}
+@media (max-width: 482px) {
+  .boxes1 {
+    width: 840px;
+    height: auto;
+    left: 343px;
+    top: 3173.77px;
+    border: 3px solid #00cbbf;
+    box-sizing: border-box;
+    border-radius: 30px;
+    align-self: center;
+  }
+  .roadmaph4 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #00cbbf;
+  }
+  .roadmapp10 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 21px;
+    color: white;
+    text-align: left;
+    /* padding-top: 20px; */
+    padding-left: 40px;
+    padding-right: 30px;
+  }
+  .roadmappup {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 175% */
+    text-align: left;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+  }
+  .roadmapp {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 21px;
+    color: white;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 40px;
+  }
+}

@@ -1,0 +1,43 @@
+.fluid-container {
+  background-image: url("../../asset/image2.jpg");
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+  /* width: 200px; */
+}
+.navbarlogo {
+  position: absolute;
+  left: 430px;
+  top: 12px;
+  width: 70px;
+}
+@media (max-width: 1000px) {
+  .navbarlogo {
+    position: absolute;
+    left: 30px;
+    top: 8px;
+    width: 43px;
+    /* display: flex;
+    justify-content: left; */
+  }
+}
+@media (max-width: 768px) {
+  .navbarlogo {
+    position: absolute;
+    left: 30px;
+    top: 8px;
+    width: 43px;
+    /* display: flex;
+    justify-content: left; */
+  }
+}
+@media (max-width: 600px) {
+  .navbarlogo {
+    position: absolute;
+    left: 30px;
+    top: 8px;
+    width: 43px;
+    /* display: flex;
+    justify-content: left; */
+  }
+}

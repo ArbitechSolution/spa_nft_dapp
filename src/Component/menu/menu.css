@@ -1,0 +1,26 @@
+.menucontainer {
+  padding-top: 110px;
+  padding-bottom: 50px;
+}
+div h2 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+.menuimage {
+  width: 740px;
+}
+@media (max-width: 768px) {
+  .menuimage {
+    width: 480px;
+  }
+}
+@media (max-width: 600px) {
+  .menuimage {
+    width: 480px;
+  }
+}
+@media (max-width: 480px) {
+  .menuimage {
+    width: 280px;
+  }
+}

@@ -1,0 +1,32 @@
+.conatiner2 {
+  padding-top: 140px;
+  padding-bottom: 40px;
+}
+.statusoneimage {
+  width: 300px;
+  height: 370px;
+}
+@media (max-width: 480px) {
+  .conatiner2 {
+    padding-top: 70px;
+    padding-bottom: 40px;
+  }
+  .statusoneimage {
+    width: 300px;
+  }
+  .menudownh1 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    background: -webkit-linear-gradient(
+      93.2deg,
+      #009eff 12.14%,
+      #0029ff 92.31%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+    margin-left: 30px;
+  }
+}

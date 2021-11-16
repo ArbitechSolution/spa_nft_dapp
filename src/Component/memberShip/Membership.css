@@ -1,0 +1,37 @@
+.backroundColor {
+  background-color: #0e0e0e;
+}
+.conatiner3 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  /* background-color: #0e0e0e; */
+}
+.membershiph4 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 23px;
+  text-align: center;
+  background: -webkit-linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.membershipp {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  /* or 147% */
+
+  text-align: justify;
+
+  color: #ffffff;
+}
+.membershiprow22 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 2px solid red;
+}
